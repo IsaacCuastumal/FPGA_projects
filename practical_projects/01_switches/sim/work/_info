@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vswitches_to_LEDs
+Z1 !s100 1OJJW2nm;^PCo9ROF:AZd3
+Z2 Im=0WW?=>D_YhzA2DTQO^a2
+Z3 VC_lLkTi2SZU=5`=AYV1QE1
+Z4 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\practical_projects\sim
+Z5 w1739141723
+Z6 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/switches_to_LEDs.v
+Z7 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/switches_to_LEDs.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/switches_to_LEDs.v|
+Z10 o-work work -O0
+Z11 nswitches_to_@l@e@ds
+!i10b 1
+!s85 0
+Z12 !s108 1739142595.530000
+Z13 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/switches_to_LEDs.v|
+!s101 -O0
+vtb_switches
+!i10b 1
+!s100 5XieobDN>QL99Vi_RN?R`3
+I5XYcd=1RRBUaU^_J9eOOO3
+VU=M9>C4kHl0[ZzdYBG@L92
+R4
+w1739142590
+8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/tb_switches.v
+FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/tb_switches.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1739142595.692000
+!s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/tb_switches.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/tb_switches.v|
+!s101 -O0
+R10

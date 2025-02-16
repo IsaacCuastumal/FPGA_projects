@@ -1,0 +1,15 @@
+{C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/tb_switches.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/tb_switches.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_switches
+
+Top level modules:
+	tb_switches
+
+} {} {}} {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/switches_to_LEDs.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/switches_to_LEDs.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module switches_to_LEDs
+
+Top level modules:
+	switches_to_LEDs
+
+} {} {}}

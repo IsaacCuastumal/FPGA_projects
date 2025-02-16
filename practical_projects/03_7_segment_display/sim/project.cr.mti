@@ -1,0 +1,43 @@
+{C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_adder_nbit
+
+Top level modules:
+	tb_adder_nbit
+
+} {} {}} {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit_top.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit_top.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder_nbit_top
+
+Top level modules:
+	adder_nbit_top
+
+} {} {}} {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit_top.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit_top.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_adder_nbit_top
+
+Top level modules:
+	tb_adder_nbit_top
+
+} {} {}} {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/hex_7seg_decoder.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/hex_7seg_decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hex_7seg_decoder
+
+Top level modules:
+	hex_7seg_decoder
+
+} {} {}} {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_hex_7seg_decoder.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_hex_7seg_decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_hex_7seg_decoder
+
+Top level modules:
+	tb_hex_7seg_decoder
+
+} {} {}} {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder_nbit
+
+Top level modules:
+	adder_nbit
+
+} {} {}}

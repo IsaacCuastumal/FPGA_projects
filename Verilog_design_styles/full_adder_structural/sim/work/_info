@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\Verilog_design_styles\behavioral_design\sim
+vfull_adder_structural
+Z1 ITfUH3SE;zGKeJ9^Eb`;el0
+Z2 VERg4CF2NA9ZE8XFKGi:[@2
+Z3 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\Verilog_design_styles\full_adder_structural\sim
+Z4 w1739649647
+Z5 8C:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\Verilog_design_styles\full_adder_structural\full_adder_structural.v
+Z6 FC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\Verilog_design_styles\full_adder_structural\full_adder_structural.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 37GVJHfCd>hN5cklF4=Ta0
+Z10 !s108 1739649655.636000
+Z11 !s107 C:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\Verilog_design_styles\full_adder_structural\full_adder_structural.v|
+Z12 !s90 -reportprogress|300|-work|work|C:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\Verilog_design_styles\full_adder_structural\full_adder_structural.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhalf_adder_structural
+Z13 !s100 [`eOeM:25FVhl4[E2g9cZ2
+Z14 Ilo;o51hl;4E4G=>hVNGm^2
+Z15 VE7n@AAL=0SzDh80^9l[gH1
+R3
+Z16 w1738944204
+Z17 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/full_adder_structural/half_adder_structural .v
+Z18 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/full_adder_structural/half_adder_structural .v
+L0 1
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/full_adder_structural/half_adder_structural .v|
+R8
+!i10b 1
+!s85 0
+Z20 !s108 1739649655.799000
+Z21 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/full_adder_structural/half_adder_structural .v|
+!s101 -O0
+vtestbench
+!i10b 1
+Z22 !s100 4kV2Aak4OiIZUOLHi:?@J2
+Z23 IlHQc1o:7I@_iW>gej5`^d2
+Z24 VhGfW:390DM[oDMzegDH9`2
+R3
+Z25 w1739649561
+Z26 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/full_adder_structural/testbench.v
+Z27 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/full_adder_structural/testbench.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1739649655.902000
+!s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/full_adder_structural/testbench.v|
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/full_adder_structural/testbench.v|
+!s101 -O0
+R8

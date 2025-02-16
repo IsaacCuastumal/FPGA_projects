@@ -1,0 +1,29 @@
+{C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/testbench_4bit_adder.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/testbench_4bit_adder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testbench_4bit_adder
+
+Top level modules:
+	testbench_4bit_adder
+
+} {} {}} {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ripple_adder_4bit_structural
+
+Top level modules:
+	ripple_adder_4bit_structural
+
+} {} {}} {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/half_adder_structural .v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/half_adder_structural .v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module half_adder_structural
+
+Top level modules:
+	half_adder_structural
+
+} {} {}} {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/full_adder_structural.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/full_adder_structural.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module full_adder_structural
+
+Top level modules:
+	full_adder_structural
+
+} {} {}}

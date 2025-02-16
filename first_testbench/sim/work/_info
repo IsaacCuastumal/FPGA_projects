@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\Ex6\sim
+vadder8bit
+Z1 !s100 jSG>d0@ZcTXBCM[bGI5g[2
+Z2 I>nn>ncZ3Dgo^V<nl]oZ<11
+Z3 VQEMLHQ^fPMPMfo8fiSG>43
+Z4 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\first_testbench\sim
+Z5 w1738876977
+Z6 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/first_testbench/adder8bit.v
+Z7 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/first_testbench/adder8bit.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/first_testbench/adder8bit.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1738877739.350000
+Z12 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/first_testbench/adder8bit.v|
+!s101 -O0
+vmy_first_testbench
+!i10b 1
+!s100 Q_CnE?We<[0TW4eSFQUCX2
+IV>BN^K9K2OML;PVRSN9fU1
+V:_8Rf0MXa2RgX_KP5=4ZE1
+R4
+w1738877734
+8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/first_testbench/my_first_testbench.v
+FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/first_testbench/my_first_testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1738877739.450000
+!s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/first_testbench/my_first_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/first_testbench/my_first_testbench.v|
+!s101 -O0
+R10

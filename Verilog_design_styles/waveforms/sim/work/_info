@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\first_testbench\sim
+vwaveforms
+!i10b 1
+!s100 IBKoD5R_G;_;Qi0;`fB2[0
+I3kLS?XMVY]Khf7`Dnfibj1
+VI11<W9We>h_c3C5g:z?^C3
+dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\waveforms\sim
+w1738941019
+8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/waveforms/waveforms.v
+FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/waveforms/waveforms.v
+L0 3
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1738941097.576000
+!s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/waveforms/waveforms.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/waveforms/waveforms.v|
+!s101 -O0
+o-work work -O0

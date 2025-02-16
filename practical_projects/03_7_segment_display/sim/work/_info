@@ -1,0 +1,119 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vadder_nbit
+Z1 !s100 nZ0j<XBm_NzZ08TN`05K@0
+Z2 IAHO`LV6J3^eU@KC7<hd6H2
+Z3 Vj^ha?fA0Q;VFOUOK3bgUT1
+Z4 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\practical_projects\03_7_segment_display\sim
+Z5 w1739153349
+Z6 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit.v
+Z7 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit.v|
+Z10 o-work work -O0
+Z11 !s108 1739153971.320000
+Z12 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vadder_nbit_top
+Z13 !s100 `0[QNKdf_M7nefTfmMWjc3
+Z14 I]D8WLgz[:Y>VHTY_0WYze2
+Z15 VL9D@JOI9Y5PXB>5XPWMU?1
+R4
+Z16 w1739151675
+Z17 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit_top.v
+Z18 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit_top.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit_top.v|
+R10
+Z20 !s108 1739153971.450000
+Z21 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/adder_nbit_top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhex_7seg_decoder
+Z22 !s100 GQ43R@[Oo?7AZWQK03RZh2
+Z23 I:RKS[<L@`FJbQmK_ES;U31
+Z24 VgUk]KJjOFLUHon;>l:YBl3
+R4
+Z25 w1739151516
+Z26 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/hex_7seg_decoder.v
+Z27 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/hex_7seg_decoder.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/hex_7seg_decoder.v|
+R10
+Z29 !s108 1739153971.560000
+Z30 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/hex_7seg_decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_adder_nbit
+Z31 !s100 Vk`C84_M6z4^OgVgbh]:R0
+Z32 IeU1nOiI92`nekGQe?T3]j0
+Z33 V^@XkLYbJVmg8gBQYQ^I[a0
+R4
+Z34 w1739153406
+Z35 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit.v
+Z36 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit.v
+L0 3
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit.v|
+R10
+Z38 !s108 1739153971.690000
+Z39 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_adder_nbit_top
+Z40 !s100 Zn4X9zHbG4fU;Gc4l87^21
+Z41 IhK2BHVBY_gkGFk0SOm`jL3
+Z42 V:FbcfdNbMZ2F6bClEJiKK2
+R4
+Z43 w1739152492
+Z44 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit_top.v
+Z45 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit_top.v
+L0 3
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit_top.v|
+R10
+!i10b 1
+!s85 0
+Z47 !s108 1739153971.800000
+Z48 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_adder_nbit_top.v|
+!s101 -O0
+vtb_hex_7seg_decoder
+!i10b 1
+!s100 ej77SoQG?hDiOZAb>a_AB2
+I[ceYh5PcbbhS`Y]7^1Xm11
+Z49 VcOh;PDRg_=Co<RSnXAE>L2
+R4
+w1739153961
+Z50 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_hex_7seg_decoder.v
+Z51 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_hex_7seg_decoder.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1739153971.910000
+!s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_hex_7seg_decoder.v|
+Z52 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/practical_projects/03_7_segment_display/rtl/tb_hex_7seg_decoder.v|
+!s101 -O0
+R10

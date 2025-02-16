@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\Verilog_design_styles\full_adder_dataflow\sim
+vfull_adder_structural
+Z1 !s100 4ZgXRef_n?UIz2^6ST[dl0
+Z2 I5eH462Z[TeoCNZ[2d10K=2
+Z3 VERg4CF2NA9ZE8XFKGi:[@2
+Z4 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\Verilog_design_styles\ripple_adder_4bit_structural\sim
+Z5 w1739649647
+Z6 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/full_adder_structural.v
+Z7 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/full_adder_structural.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/full_adder_structural.v|
+Z10 o-work work -O0
+Z11 !s108 1739654345.461000
+Z12 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/full_adder_structural.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhalf_adder_structural
+Z13 !s100 J6Qech[77Nl5z:48eCizR3
+Z14 I:_GAdIMV^Cia9Q8j9ezEY1
+Z15 VE7n@AAL=0SzDh80^9l[gH1
+R4
+Z16 w1738944204
+Z17 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/half_adder_structural .v
+Z18 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/half_adder_structural .v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/half_adder_structural .v|
+R10
+Z20 !s108 1739654345.611000
+Z21 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/half_adder_structural .v|
+!i10b 1
+!s85 0
+!s101 -O0
+vripple_adder_4bit_structural
+Z22 !s100 ;jkCed`dnXoOJ9F]blUe]1
+Z23 I3j@ZISQ^EWzPgPI83eBDi0
+Z24 VJE0HI5S4BSTQR=Ef]zKjb0
+R4
+Z25 w1739654035
+Z26 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v
+Z27 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v|
+R10
+!i10b 1
+!s85 0
+Z29 !s108 1739654345.749000
+Z30 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v|
+!s101 -O0
+vtestbench_4bit_adder
+!i10b 1
+!s100 OC^2`UWFTUOA^k?d:Hf=z2
+IecWM>VHS`[0VXF8Tb9_lc0
+Z31 V8jJaT>fH0JcZ0]]J21BR32
+R4
+w1739654337
+Z32 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/testbench_4bit_adder.v
+Z33 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/testbench_4bit_adder.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1739654345.851000
+!s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/testbench_4bit_adder.v|
+Z34 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/Verilog_design_styles/ripple_adder_4bit_structural/testbench_4bit_adder.v|
+!s101 -O0
+R10
