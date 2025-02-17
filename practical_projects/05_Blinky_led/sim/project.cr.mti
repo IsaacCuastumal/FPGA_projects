@@ -1,0 +1,15 @@
+{C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/practical_projects/05_Blinky_led/rtl/tb_Blinky_led.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/practical_projects/05_Blinky_led/rtl/tb_Blinky_led.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_Blinky_led
+
+Top level modules:
+	tb_Blinky_led
+
+} {} {}} {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/practical_projects/05_Blinky_led/rtl/Blinky_led.v} {1 {vlog -work work {C:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\practical_projects\05_Blinky_led\rtl\Blinky_led.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Blinky_led
+
+Top level modules:
+	Blinky_led
+
+} {} {}}

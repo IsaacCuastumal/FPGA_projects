@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vBlinky_led
+Z1 !s100 ?db266kzaR@3=oE:o;Fnh2
+Z2 IUE:HPJa`PD>_Wg:e6V`KM2
+Z3 V6LR;W=^56hoeeo935KH4^2
+Z4 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\practical_projects\05_Blinky_led\sim
+Z5 w1739752069
+Z6 8C:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\practical_projects\05_Blinky_led\rtl\Blinky_led.v
+Z7 FC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\practical_projects\05_Blinky_led\rtl\Blinky_led.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\practical_projects\05_Blinky_led\rtl\Blinky_led.v|
+Z10 o-work work -O0
+Z11 n@blinky_led
+!i10b 1
+!s85 0
+Z12 !s108 1739753172.784000
+Z13 !s107 C:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\practical_projects\05_Blinky_led\rtl\Blinky_led.v|
+!s101 -O0
+vtb_Blinky_led
+!i10b 1
+!s100 Q@C@1NaeRFV`iOoWJEJco3
+IcGmnW:;dJ9cPV2BGjATzN0
+VXl3TV_UE2zd?3U2c^[IIc1
+R4
+w1739753165
+Z14 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/practical_projects/05_Blinky_led/rtl/tb_Blinky_led.v
+Z15 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/practical_projects/05_Blinky_led/rtl/tb_Blinky_led.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1739753172.895000
+!s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/practical_projects/05_Blinky_led/rtl/tb_Blinky_led.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/practical_projects/05_Blinky_led/rtl/tb_Blinky_led.v|
+!s101 -O0
+R10
+Z17 ntb_@blinky_led
