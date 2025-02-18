@@ -1,0 +1,67 @@
+|decoder_4to16
+a[0] => a[0].IN2
+a[1] => a[1].IN2
+a[2] => a[2].IN2
+a[3] => a[3].IN1
+d[0] <= decoder_3to8:DEC1.y
+d[1] <= decoder_3to8:DEC1.y
+d[2] <= decoder_3to8:DEC1.y
+d[3] <= decoder_3to8:DEC1.y
+d[4] <= decoder_3to8:DEC1.y
+d[5] <= decoder_3to8:DEC1.y
+d[6] <= decoder_3to8:DEC1.y
+d[7] <= decoder_3to8:DEC1.y
+d[8] <= decoder_3to8:DEC2.y
+d[9] <= decoder_3to8:DEC2.y
+d[10] <= decoder_3to8:DEC2.y
+d[11] <= decoder_3to8:DEC2.y
+d[12] <= decoder_3to8:DEC2.y
+d[13] <= decoder_3to8:DEC2.y
+d[14] <= decoder_3to8:DEC2.y
+d[15] <= decoder_3to8:DEC2.y
+
+
+|decoder_4to16|decoder_3to8:DEC1
+a[0] => Decoder0.IN2
+a[1] => Decoder0.IN1
+a[2] => Decoder0.IN0
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+y[0] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[1] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[2] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[3] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[4] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[5] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[6] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[7] <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|decoder_4to16|decoder_3to8:DEC2
+a[0] => Decoder0.IN2
+a[1] => Decoder0.IN1
+a[2] => Decoder0.IN0
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+enable => y.OUTPUTSELECT
+y[0] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[1] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[2] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[3] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[4] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[5] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[6] <= y.DB_MAX_OUTPUT_PORT_TYPE
+y[7] <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+

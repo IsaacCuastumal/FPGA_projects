@@ -1,6 +1,6 @@
 module decoder_nbit 
 	//parameter section
-	#(parameter N=3)
+	#(parameter N=5)
 	// ports section
 	(
 	input [N -1:0] a,

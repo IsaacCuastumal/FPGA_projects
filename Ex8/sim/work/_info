@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\Ex7\sim
+vdecoder_3to8
+Z1 !s100 lZJ=L0W`m?O;1ZKjb<Ti32
+Z2 IKzf@Z5cLCT492FijJP]Pm0
+Z3 V54Z@i]WNYCe60L47HMz=Q2
+Z4 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\Ex8\sim
+Z5 w1739844753
+Z6 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/decoder_3to8.v
+Z7 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/decoder_3to8.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/decoder_3to8.v|
+Z10 o-work work -O0
+Z11 !s108 1739845563.504000
+Z12 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/decoder_3to8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_4to16
+Z13 !s100 GLM`K[^77^0Vfm57FF9001
+Z14 IbGJ_aUhaS52DHbm2F5jL<3
+Z15 V;GD;QkU5fC7T?3HUSRKXc1
+R4
+Z16 w1739845038
+Z17 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/decoder_4to16.v
+Z18 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/decoder_4to16.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/decoder_4to16.v|
+R10
+!i10b 1
+!s85 0
+Z20 !s108 1739845563.653000
+Z21 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/decoder_4to16.v|
+!s101 -O0
+vtb_decoder_4to16
+!i10b 1
+!s100 QUHV=XLeTPHe=?R1ZVM0E3
+I>1BFaZg^Jkb?84DjLBEn`2
+Z22 VfOYmSfjbZkkIkU[W[HROh2
+R4
+w1739845555
+Z23 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/tb_decoder_4to16.v
+Z24 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/tb_decoder_4to16.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1739845563.800000
+!s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/tb_decoder_4to16.v|
+Z25 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex8/tb_decoder_4to16.v|
+!s101 -O0
+R10

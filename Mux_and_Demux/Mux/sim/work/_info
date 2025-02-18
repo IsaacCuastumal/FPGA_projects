@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\Ex8\sim
+vmux_4x_nbit
+Z1 !s100 iGgNHzOlN5ZJD76^?9mX>0
+Z2 I6:Rl1JnNzI?[4B3;:<UVY0
+Z3 V:_;ZB@Bk>O<azg[4Ai74k0
+Z4 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\Mux_and_Demux\Mux\sim
+Z5 w1739848377
+Z6 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Mux_and_Demux/Mux/mux_4x_nbit.v
+Z7 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Mux_and_Demux/Mux/mux_4x_nbit.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Mux_and_Demux/Mux/mux_4x_nbit.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1739848435.940000
+Z12 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Mux_and_Demux/Mux/mux_4x_nbit.v|
+!s101 -O0
+vtb_mux_4x_nbit
+!i10b 1
+!s100 c[GWaB>SCDZQnIHci3KIb2
+IG@J0e:Wc1Pmc6e_68FdM03
+V`V;=Qc1;`MJ1?FEEA=EFX0
+R4
+w1739848430
+8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Mux_and_Demux/Mux/tb_mux_4x_nbit.v
+FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Mux_and_Demux/Mux/tb_mux_4x_nbit.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1739848436.070000
+!s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Mux_and_Demux/Mux/tb_mux_4x_nbit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Mux_and_Demux/Mux/tb_mux_4x_nbit.v|
+!s101 -O0
+R10
