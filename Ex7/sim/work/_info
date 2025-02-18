@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vdecoder_nbit
+Z1 !s100 ac=eLe8ZBC@5QPM=B;VF82
+Z2 IlX]?WHi7IlW_gYBJ??=J`3
+Z3 VZm5:581nch;FRA<l2SaKI0
+Z4 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\Ex7\sim
+Z5 w1739843015
+Z6 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex7/decoder_nbit.v
+Z7 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex7/decoder_nbit.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex7/decoder_nbit.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1739843166.142000
+Z12 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex7/decoder_nbit.v|
+!s101 -O0
+vtb_decoder_nbit
+!i10b 1
+!s100 i]mOd_8[A@U:<nFRmnVi33
+IjhGKIbORAfF8k<0zmQ3C90
+Vc:<T0bzTcm8V5:_I4OKak0
+R4
+w1739843158
+Z13 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex7/tb_decoder_nbit.v
+Z14 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex7/tb_decoder_nbit.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1739843166.308000
+!s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex7/tb_decoder_nbit.v|
+Z15 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Ex7/tb_decoder_nbit.v|
+!s101 -O0
+R10
