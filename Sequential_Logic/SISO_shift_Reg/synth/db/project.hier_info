@@ -1,0 +1,13 @@
+|shift_reg_siso
+reset_n => siso[0].ACLR
+reset_n => siso[1].ACLR
+reset_n => siso[2].ACLR
+reset_n => siso[3].ACLR
+clk => siso[0].CLK
+clk => siso[1].CLK
+clk => siso[2].CLK
+clk => siso[3].CLK
+sdi => siso[0].DATAIN
+sdo <= siso[3].DB_MAX_OUTPUT_PORT_TYPE
+
+
