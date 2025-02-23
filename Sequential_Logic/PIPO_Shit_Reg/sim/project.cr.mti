@@ -1,0 +1,15 @@
+{C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/PIPO_Shit_Reg/rtl/tb_shift_reg_pipo.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/PIPO_Shit_Reg/rtl/tb_shift_reg_pipo.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_shift_reg_pipo
+
+Top level modules:
+	tb_shift_reg_pipo
+
+} {} {}} {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/PIPO_Shit_Reg/rtl/shift_reg_pipo.v} {1 {vlog -work work {C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/PIPO_Shit_Reg/rtl/shift_reg_pipo.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shift_reg_pipo
+
+Top level modules:
+	shift_reg_pipo
+
+} {} {}}
