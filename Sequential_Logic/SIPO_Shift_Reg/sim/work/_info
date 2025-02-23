@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\Sequential_Logic\PIPO_Shit_Reg\sim
+vshift_reg_sipo
+Z1 !s100 3b>3Nn3dLz>k0z@BUHa>g2
+Z2 I@DdYekSz_a5TS?5d^_M`:0
+Z3 VM[9ML^93H0h][<@G09Nn72
+Z4 dC:\Users\Jorge Cuastumal\Desktop\Univalle\Febrero - Junio 2025\Udemy\FPGA_projects\Sequential_Logic\SIPO_Shift_Reg\sim
+Z5 w1740350499
+Z6 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/SIPO_Shift_Reg/rtl/shift_reg_sipo.v
+Z7 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/SIPO_Shift_Reg/rtl/shift_reg_sipo.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/SIPO_Shift_Reg/rtl/shift_reg_sipo.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1740352081.787000
+Z12 !s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/SIPO_Shift_Reg/rtl/shift_reg_sipo.v|
+!s101 -O0
+vtb_shift_reg_sipo
+!i10b 1
+!s100 ;7;d@3TQY=C^mAga5cFi72
+IVe<::mn[d9Ti3d]XHYM7]0
+Z13 VUTIT[OeD`P`bZ0R=Xi2cd3
+R4
+w1740352054
+Z14 8C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/SIPO_Shift_Reg/rtl/tb_shift_reg_sipo.v
+Z15 FC:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/SIPO_Shift_Reg/rtl/tb_shift_reg_sipo.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1740352081.961000
+!s107 C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/SIPO_Shift_Reg/rtl/tb_shift_reg_sipo.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/Jorge Cuastumal/Desktop/Univalle/Febrero - Junio 2025/Udemy/FPGA_projects/Sequential_Logic/SIPO_Shift_Reg/rtl/tb_shift_reg_sipo.v|
+!s101 -O0
+R10
